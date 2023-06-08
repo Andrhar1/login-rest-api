@@ -1,7 +1,7 @@
 {
   "name": "2019-10-12",
   "version": "1.0.0",
-  "description": "",
+  "description": "- 👋 Hi, I’m @Tariqu\r - 👀 I’m looking for contributor",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
@@ -10,12 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.6",
-    "dotenv": "^8.1.0",
-    "express": "^4.17.1",
+    "dotenv": "^8.6.0",
+    "express": "^4.18.2",
     "jsonwebtoken": "^8.5.1",
-    "mysql": "^2.17.1"
+    "mysql": "^2.18.1"
   },
   "devDependencies": {
-    "nodemon": "^1.19.3"
-  }
+    "nodemon": "^1.19.4"
+  },
+  "keywords": []
 }
